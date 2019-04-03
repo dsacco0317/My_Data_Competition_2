@@ -2,7 +2,7 @@
 
 |   |   |   |
 |---|---|---|
-| _*Feature ID*_ | _*Description*_  | _*Values*_ |
+| __Feature ID__ | __Description__  | __Values__ |
 | X1 | Amount of the given credit (NT dollar): it includes both the individual consumer credit and his/her family (supplementary) credit. | INTEGER VALUE |
 | X2 | Gender | Male=1 Female=2 |
 | X3 | Education | 1=Graduate School 2=University 3=High School 4=Others |
