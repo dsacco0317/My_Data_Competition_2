@@ -1,6 +1,6 @@
 ## Data Dictionary ##
 
-
+|   |   |   |
 |---|---|---|
 | _*Feature ID*_ | _*Description*_  | _*Values*_ |
 | X1 | Amount of the given credit (NT dollar): it includes both the individual consumer credit and his/her family (supplementary) credit. | INTEGER VALUE |
