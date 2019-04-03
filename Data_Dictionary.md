@@ -1,7 +1,7 @@
 ## Data Dictionary ##
 
 
-Data Set Information:
+__Data Set Information:__
 
 This research aimed at the case of customers default payments in Taiwan and compares the predictive accuracy of probability of default among six data mining methods. From the perspective of risk management, the result of predictive accuracy of the estimated probability of default will be more valuable than the binary result of classification - credible or not credible clients. Because the real probability of default is unknown, this study presented the novel Sorting Smoothing Method to estimate the real probability of default. With the real probability of default as the response variable (Y), and the predictive probability of default as the independent variable (X), the simple linear regression result (Y = A + BX) shows that the forecasting model produced by artificial neural network has the highest coefficient of determination; its regression intercept (A) is close to zero, and regression coefficient (B) to one. Therefore, among the six data mining techniques, artificial neural network is the only one that can accurately estimate the real probability of default.
 
@@ -18,7 +18,7 @@ This research aimed at the case of customers default payments in Taiwan and comp
 | X18-X23 | Amount of previous payment (NT dollar) | X18=amount paid in September, 2005; X19=amount paid in August, 2005; . . . |
 
 
-Source:
+__Source:__
 
 Name: I-Cheng Yeh 
 email addresses: (1) icyeh '@' chu.edu.tw (2) 140910 '@' mail.tku.edu.tw 
